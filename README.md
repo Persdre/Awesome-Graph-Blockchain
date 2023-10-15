@@ -9,6 +9,8 @@ The exploration of blockchain technology through the lens of graph topology prov
 
 - [Awesome-Blockchain-Graph](#awesome-blockchain-graph)
   - [Table of Contents](#table-of-contents)
+  - [Survey](#survey)
+  - [Benchmark and Datasets](#benchmark-and-datasets)
   - [Static Graph](#static-graph)
     - [Node Clustering](#node-clustering)
     - [Address Classification](#address-classification)
@@ -16,6 +18,14 @@ The exploration of blockchain technology through the lens of graph topology prov
   - [Dynamic Graph](#dynamic-graph)
   - [Resources & Tools](#resources--tools)
   - [Contributing](#contributing)
+
+## Survey
+
+- (*journal*) Analyzing Address Activities in Blockchain Using Graph Neural Networks [[pdf]](link)[[code]](link)
+
+## Benchmark and Datasets
+
+
 
 ## Static Graph
 
@@ -36,8 +46,7 @@ The exploration of blockchain technology through the lens of graph topology prov
 
 ## Dynamic Graph
 
-- (*journal*) Dynamic Analysis of Transaction Patterns in Blockchain Using Temporal Graph Networks [[pdf]](link)[[code]](link)
-- (*conference*) Investigating Temporal Patterns in Cryptocurrency Graphs for Fraud Detection [[pdf]](link)[[code]](link)
+- (*WWW 22*) TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection [[pdf]](https://arxiv.org/pdf/2204.13442#:~:text=TTAGN%20enhances%20the%20representation%20of,embedding%20and%20phishing%20addresses%20detection.)
 
 ## Resources & Tools
 
