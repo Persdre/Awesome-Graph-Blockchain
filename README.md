@@ -36,8 +36,7 @@ The exploration of blockchain technology through the lens of graph topology prov
 
 ### Address Classification
 
-- (*journal*) Analyzing Address Activities in Blockchain Using Graph Neural Networks [[pdf]](link)[[code]](link)
-- (*journal*) Address Anomaly Detection in Blockchain Networks Using Graph-Based Machine Learning Models [[pdf]](link)[[code]](link)
+- (*IJCAI 2020*) Smart Contract Vulnerability Detection Using Graph Neural Networks [[pdf]]([link](https://www.ijcai.org/Proceedings/2020/0454.pdf))
 
 ### Link Prediction
 
