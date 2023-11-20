@@ -36,7 +36,7 @@ The exploration of blockchain technology through the lens of graph topology prov
 
 ### Address Classification
 
-- (*IJCAI 2020*) Smart Contract Vulnerability Detection Using Graph Neural Networks [[pdf]]([link](https://www.ijcai.org/Proceedings/2020/0454.pdf))
+- (*IJCAI 2020*) Smart Contract Vulnerability Detection Using Graph Neural Networks [[pdf]](https://www.ijcai.org/Proceedings/2020/0454.pdf)
 
 ### Link Prediction
 
@@ -45,7 +45,7 @@ The exploration of blockchain technology through the lens of graph topology prov
 
 ## Dynamic Graph
 
-- (*WWW 22*) TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection [[pdf]](https://arxiv.org/pdf/2204.13442#:~:text=TTAGN%20enhances%20the%20representation%20of,embedding%20and%20phishing%20addresses%20detection.)
+- (*WWW 2022*) TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection [[pdf]](https://arxiv.org/pdf/2204.13442#:~:text=TTAGN%20enhances%20the%20representation%20of,embedding%20and%20phishing%20addresses%20detection.)
 
 ## Resources & Tools
 
