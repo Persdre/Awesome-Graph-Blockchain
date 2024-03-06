@@ -1,6 +1,6 @@
 # Awesome-Blockchain-Graph [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A magnificent gathering of **AWESOME** works related to **Blockchain Research using Graph Topology**.
+A magnificent gathering of **AWESOME** works related to **Graph Learning on Blockchain**.
 
 The exploration of blockchain technology through the lens of graph topology provides new insights into network interactions, node behaviors, and transactional patterns. This repository is committed to gathering and sharing research papers, tools, and resources that delve into the fascinating intersection between blockchain technologies and graph analytical approaches.
 
