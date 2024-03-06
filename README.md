@@ -1,9 +1,6 @@
-# Awesome-Blockchain-Graph [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Graph-Learning-On-Blockchain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A magnificent gathering of **AWESOME** works related to **Graph Learning on Blockchain**.
-
-The exploration of blockchain technology through the lens of graph topology provides new insights into network interactions, node behaviors, and transactional patterns. This repository is committed to gathering and sharing research papers, tools, and resources that delve into the fascinating intersection between blockchain technologies and graph analytical approaches.
-
+As blockchain develops with multiple popular cryptocurrencies such as BitCoin, Ethereum, as well as applications, learning on the blockchain becomes important to detect fraudsters, identify transaction patterns, etc. We provide a magnificent gathering of **AWESOME** works related to **Graph Learning on Blockchain**.
 
 ## Table of Contents
 
