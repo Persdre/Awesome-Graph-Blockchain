@@ -1,4 +1,4 @@
-# Awesome-Graph-Learning-On-Blockchain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Graph-Blockchain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 As blockchain develops with multiple popular cryptocurrencies such as BitCoin, Ethereum, as well as applications, learning on the blockchain becomes important to detect fraudsters, identify transaction patterns, etc. We provide a magnificent gathering of **AWESOME** works related to **Graph Learning on Blockchain**.
 
